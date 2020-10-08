@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{D977CFBB-C9F7-C757-A02A-E9DFA939D204}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Portal.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HoverProvider.cs" Line="63" Column="56" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Locomotion/Teleportation/TeleportationProvider.cs" Line="68" Column="1" />
+      <File FileName="Assets/Scripts/VirtualBodyScript.cs" Line="26" Column="1" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactors/XRRayInteractor.cs" Line="655" Column="54" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/XRInteractionManager.cs" Line="308" Column="36" />
+      <File FileName="Assets/XR Simulation Toolkit/Runtime/XRSTController.cs" Line="1" Column="1" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Locomotion/Teleportation/TeleportationArea.cs" Line="19" Column="16" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Locomotion/Teleportation/BaseTeleportationInteractable.cs" Line="119" Column="40" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactables/XRBaseInteractable.cs" Line="229" Column="10" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactors/XRBaseControllerInteractor.cs" Line="2" Column="1" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactors/XRBaseInteractor.cs" Line="270" Column="13" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactors/Helpers/IXRCustomReticleProvider.cs" Line="1" Column="1" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/UI/XRUIInputModule.cs" Line="11" Column="14" />
+      <File FileName="Assets/XR Interaction Toolkit 0.9.4/Runtime/Interaction/Interactors/Helpers/XRInteractorLineVisual.cs" Line="247" Column="34" />
+      <File FileName="Assets/Scripts/HeadSteeringProvider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WalkingProvider.cs" Line="43" Column="1" />
+      <File FileName="Assets/Scripts/Portal.cs" Line="7" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR_HW1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Portal.cs" selected="True" />
+              </Node>
+              <Node name="XR Interaction Toolkit 0.9.4" expanded="True">
+                <Node name="Runtime" expanded="True">
+                  <Node name="Interaction" expanded="True">
+                    <Node name="Interactables" expanded="True" />
+                    <Node name="Interactors" expanded="True">
+                      <Node name="Helpers" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Locomotion" expanded="True">
+                    <Node name="Teleportation" expanded="True" />
+                  </Node>
+                  <Node name="UI" expanded="True" />
+                  <Node name="XR" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="XR Simulation Toolkit" expanded="True">
+                <Node name="Runtime" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VR_HW1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="085c7f06-75fb-4901-9d0a-55ff503b0b58" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
